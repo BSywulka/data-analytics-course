@@ -99,7 +99,7 @@ _click on the image above to access slides for this module_
   - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
      - Insert Pivot Table (new sheet), drag category to Rows, drag amount to Values. 
         - This will show you the category by amount. 
-     - Insert Pivot Table (new sheet), drag data to Column, drag amount to Values. Right click on date, scroll to create Pivot data group -> Month.
+     - Insert Pivot Table (new sheet), drag date to Column, drag amount to Values. Right click on any cell containing a date, scroll to Create pivot data group -> Month.
         - This will show you the total sum of amount by month. 
      - Highlight data, insert Chart - try out different ones.
   - [Example completed spreadsheet](https://docs.google.com/spreadsheets/d/1lIW05vgnTm16NF8w24sCgM_x3EKvqwdKwhORIPXnmOM/edit?gid=762388016#gid=762388016)
